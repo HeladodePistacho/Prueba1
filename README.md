@@ -10,7 +10,9 @@ Hi, I'm Èric Solà, the UI programmer of Duck Dev, and my contribution to this 
 ## UI
 
 ### Atlas:
-
+![]()
 ### Functionality:
 
 ![](https://i.gyazo.com/b98783dd21f38b0d45a2eb391f851c08.gif)
+
+![](https://i.gyazo.com/c95e0e47ba26a7406ca8af10074329da.gif)
