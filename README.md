@@ -13,6 +13,7 @@ Hi, I'm Èric Solà, the UI programmer of Duck Dev, and my contribution to this 
 ![](https://github.com/HeladodePistacho/Prueba1/blob/master/jajasalu2.png?raw=true)
 ### Functionality:
 
-![](https://i.gyazo.com/b98783dd21f38b0d45a2eb391f851c08.gif)
+![](https://i.gyazo.com/b98783dd21f38b0d45a2eb391f851c08.gif) ![](https://gyazo.com/dca794d84a79fa87d2c37c68038a9cf1)
 
 ![](https://i.gyazo.com/c95e0e47ba26a7406ca8af10074329da.gif)
+
