@@ -12,6 +12,9 @@ Hi, I'm Èric Solà, the UI programmer of Duck Dev, and my contribution to this 
 ### Atlas:
 ![](https://github.com/HeladodePistacho/Prueba1/blob/master/jajasalu2.png?raw=true)
 ### Functionality:
+* Life system
+
+![](https://i.gyazo.com/88670261c804ad16376d73f495318a1e.gif)
 
 * Bars
 
