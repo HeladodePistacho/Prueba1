@@ -17,6 +17,8 @@ Hi, I'm Èric Solà, the UI programmer of Duck Dev, and my contribution to this 
 
 ![](https://i.gyazo.com/c95e0e47ba26a7406ca8af10074329da.gif)
 
+![](https://i.gyazo.com/9a2b73f747902a35ae8c16ec885f4282.gif)
+
 ![](https://i.gyazo.com/2d4cc733c1a181f838596d4adaf32ed1.gif)
 
 ![](https://i.gyazo.com/d2bd5d7eb480fae02b5529a259823c75.gif)
