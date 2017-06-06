@@ -1,5 +1,7 @@
 # UI Programmer
 
+![](https://i.gyazo.com/42df47611178ee20d2c51b7dc52df19b.png)
+
 Hi, I'm Èric Solà, the UI programmer of Duck Dev, and my contribution to this project have been:
 
 * Create the UI [Art + Programming]
@@ -27,7 +29,6 @@ Shows the Max life of the player and his current life
 
 The first one shows the player's stamina and the second the final boss life. They are made to adapt to the values that it's showing. Even if you change the amount of stamina of the player the bar will always move inside the container. 
 
-***
 
 ![](https://i.gyazo.com/b98783dd21f38b0d45a2eb391f851c08.gif) 
 ![](https://i.gyazo.com/dca794d84a79fa87d2c37c68038a9cf1.gif)
@@ -70,16 +71,14 @@ This is the main menu of the game:
 **Quit:** Closes the game.
 
 
-
-
 ## Cutscenes
 
 Cutscenes are the main way to show the story to the player. In these system we are able to move entities and UI elements, and also make player interact with the dialogues.
 
-* UI elements
+* **UI elements**
 
 ![](https://i.gyazo.com/d2bd5d7eb480fae02b5529a259823c75.gif)
 
-* Entities and display text
+* **Entities and display text**
 
 ![](https://i.gyazo.com/65e3f9346d3e1969ecd8606d926a1a3e.gif)
